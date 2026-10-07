@@ -1,0 +1,7 @@
+{
+  "name": "ThreadMind AI",
+  "description": "Analyze suspicious links before you open them. AI-powered URL threat analysis and cybersecurity risk assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
